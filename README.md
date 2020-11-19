@@ -19,5 +19,5 @@ This is a Basic Code Editor and currently supports HTML,CSS and JavaScript Compi
 
 ## Getting Started 🚀
 - Fork The Repo
-- Clone the repo `git clone https://github.com/Sahil-kachhap/GDG-Devfest-India`
+- Clone the repo `git clone https://github.com/Sahil-kachhap/Web-Dev-Code-Editor`
 
