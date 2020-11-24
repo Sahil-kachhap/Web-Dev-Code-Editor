@@ -16,6 +16,7 @@ This is a Basic Code Editor and currently supports HTML,CSS and JavaScript Compi
 
 ## Future Enhancements
 - Improving the overall CSS Styling.
+- Implementing Support for Adding Images in the WebPage.
 
 ## Getting Started 🚀
 - Fork The Repo
